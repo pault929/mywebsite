@@ -1,9 +1,12 @@
 body{
-	background: url(IMG_0019.jpg) no-repeat;
+	background: url(images/IMG_0019.jpg) no-repeat;
 	background-size: cover;
 	font-family: arial;
 	color: white;
 
+}
+h1{
+	color:black;
 }
 
 ul{

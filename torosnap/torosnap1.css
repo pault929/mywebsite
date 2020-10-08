@@ -4,7 +4,7 @@
 }
 
 body{
-	background: url(props.jpg) no-repeat;
+	background: url(images/props.jpg) no-repeat;
 	width: 100%;
 	height: auto;
 	overflow: hidden;
